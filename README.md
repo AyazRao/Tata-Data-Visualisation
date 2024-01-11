@@ -18,7 +18,8 @@ This project involves analyzing data for an online retail store to provide insig
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/AyazRao/Tata-Data-Visualisation.git
+   cd Tata-Data-Visualisation
 
 ## Task 1: Framing the Business Scenario
 ### Questions for CEO:
